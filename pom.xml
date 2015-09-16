@@ -23,9 +23,9 @@
 	<description>Maven Test Parent</description>
 
 	<scm>
-		<connection>scm:git:git@git.corp.adobe.com:DCOCloud/dcocloud.git</connection>
-		<developerConnection>scm:git:git@git.corp.adobe.com:DCOCloud/dcocloud.git</developerConnection>
-		<url>https://git.corp.adobe.com/DCOCloud/dcocloud</url>
+		<connection>scm:git:git@https://github.com/jimaldous/mavenTest.git</connection>
+		<developerConnection>scm:git:git@https://github.com/jimaldous/mavenTest.git</developerConnection>
+		<url>https://github.com/jimaldous/mavenTest.git</url>
 		<tag>mavenTest-0.0.1</tag>
 	</scm>
 
