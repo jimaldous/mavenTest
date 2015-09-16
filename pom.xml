@@ -23,8 +23,8 @@
 	<description>Maven Test Parent</description>
 
 	<scm>
-		<connection>scm:git:git@https://github.com/jimaldous/mavenTest.git</connection>
-		<developerConnection>scm:git:git@https://github.com/jimaldous/mavenTest.git</developerConnection>
+		<connection>scm:git:https://github.com/jimaldous/mavenTest.git</connection>
+		<developerConnection>scm:git:https://github.com/jimaldous/mavenTest.git</developerConnection>
 		<url>https://github.com/jimaldous/mavenTest.git</url>
 		<tag>mavenTest-0.0.1</tag>
 	</scm>
